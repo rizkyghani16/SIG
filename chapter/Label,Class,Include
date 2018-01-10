@@ -5,7 +5,7 @@
 Class adalah ‘cetak biru’ atau ‘blueprint’ dari object. Class digunakan hanya untuk membuat kerangka dasar. Yang akan kita pakai nantinya adalah hasil cetakan dari class, yakni object.
 Sebagai analogi, class bisa diibaratkan dengan laptop atau notebook. Kita tahu bahwa laptop memiliki ciri-ciri seperti merk, memiliki keyboard, memiliki processor, dan beberapa ciri khas lain yang menyatakan sebuah benda tersebut adalah laptop. Selain memiliki ciri-ciri, sebuah laptop juga bisa dikenakan tindakan, seperti: menghidupkan laptop atau mematikan laptop.
 
-\subsectiom(cara kerja class expressions)
+\subsection(cara kerja class expressions)
 Ekspresi kelas memiliki sintaks yang sama dengan pernyataan kelas (deklarasi).
 Namun, dengan ekspresi kelas, Anda dapat menghilangkan nama kelas ("binding identifier"), yang tidak dapat Anda gunakan dengan pernyataan kelas. 
 Selain itu, ekspresi kelas memungkinkan Anda untuk mendefinisikan ulang / mendeklarasikan ulang kelas dan tidak membuang kesalahan jenis seperti deklarasi kelas. 
