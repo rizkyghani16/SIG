@@ -14,3 +14,6 @@ Properti konstruktor bersifat opsional. Dan, jenis dari kelas yang dihasilkan de
 \subsection(Label)
 Dalam sistem online komputer,label (tag) adalah kata kunci non hierarki atau tidak bertingkat yang tugasnya adalah menunjukkan potongan-potongan informasi (seperti petunjuk internet,gambar digital,atau file komputer). Label merupakan jenis metadata yang membantu untuk menjelaskan suatu hal dan memungkinkan hal tersebut ditemukan ketika melakukan pencarian (browsing).
 Label umumnya dipilih langsung secara informal oleh pembuat item atau penampil item,tergantung pada sistem. Istilah penandaan (tagging) dipopulerkan oleh situs yang berhubungan dengan Web 2.0 dan menjadi fitur penting di banyak layanan Web 2.0. Tagging sekarang juga menjadi bagian dari software desktop.
+
+\subsection(cara kerja Label)
+label dapat digunakan untuk membatasi label pada fitur tertentu atau untuk menentukan berbagai bidang label, simbol, rentang skala, prioritas label, dan kumpulan opsi penempatan label untuk berbagai kelompok label. Misalnya, untuk lapisan jalan Anda bisa menggunakan ukuran teks yang berbeda untuk memberi label pada berbagai jenis jalan berdasarkan bidang yang mengklasifikasikan jalan menurut kepentingannya.
