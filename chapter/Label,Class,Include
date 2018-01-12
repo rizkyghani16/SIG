@@ -17,3 +17,8 @@ Label umumnya dipilih langsung secara informal oleh pembuat item atau penampil i
 
 \subsection(cara kerja Label)
 label dapat digunakan untuk membatasi label pada fitur tertentu atau untuk menentukan berbagai bidang label, simbol, rentang skala, prioritas label, dan kumpulan opsi penempatan label untuk berbagai kelompok label. Misalnya, untuk lapisan jalan Anda bisa menggunakan ukuran teks yang berbeda untuk memberi label pada berbagai jenis jalan berdasarkan bidang yang mengklasifikasikan jalan menurut kepentingannya.
+
+\subsection(Include)
+Include adalah salah satu pengarah prepocessor directive yang tersedia pada C++. Preprocessor selalu dijalankan terlebih dahulu pada saat proses kompilasi terjadi. Bentuk umumnya :
+# include <nama file>
+Tidak diakhiri dengan tanda semicolon, karena bentuk tersebut bukanlah suatu bentuk pernyataan, tetapi merupakan prepocessor directive. Baris tersebut menginstrusikan kepada kompiler untuk menyisipkan file lain dalam hal ini file yang berakhiran .h (file header) yaitu file yang berisi C++ standard library.
